@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @funnyland-developer
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning C++.
